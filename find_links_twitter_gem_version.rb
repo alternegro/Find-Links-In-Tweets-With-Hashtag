@@ -1,5 +1,6 @@
 =begin
-	This version is based on the twitter gem which doesn't return reliable enough results. I've included it in here for reference.
+	This version is based on the twitter gem which doesn't return reliable enough results. 
+	I've included it in here for reference.
 =end
 require 'uri'
 

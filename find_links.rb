@@ -5,14 +5,17 @@
 	The script ignores links to hashtags and twitter profiles and tries to print only the links that were most likely entered by the user.
 		
 == Requirements       
-  	find_links.rb has been tested and works on MacOSX 10.6.7 using the following ruby implementations: ruby 1.8.7, ruby 1.9.2, jruby 1.6.0(In both 1.8 and 1.9 modes).
+  	find_links.rb has been tested and works on MacOSX 10.6.7 using the following ruby implementations: 
+  	ruby 1.8.7, ruby 1.9.2, jruby 1.6.0(In both 1.8 and 1.9 modes).
   	I expect it to work on other platforms without modification.
   	
-  	find_links.rb depends on version 1.4.4 or greater of the nokogiri gem. Install with "gem install nokogiri". For more info on nokogiri, Visit http://www.nokogiri.org
+  	find_links.rb depends on version 1.4.4 or greater of the nokogiri gem. 
+  	Install with "gem install nokogiri". For more info on nokogiri, Visit http://www.nokogiri.org
 	  
 	
 == Usage  
-	Run the script by passing a single alphanumeric hashtag as the argument. eg. <b>ruby find_links.rb radiohead</b>
+	Run the script by passing a single alphanumeric hashtag as the argument. eg. 
+	ruby find_links.rb radiohead
 	
 == Copyright
 	
