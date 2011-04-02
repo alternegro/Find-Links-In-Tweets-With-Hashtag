@@ -1,3 +1,4 @@
+#!/usr/bin/env ruby
 =begin
 = find_links.rb
 	find_links.rb is a twitter client script that searches the 100 most recent tweets with links, for a supplied hashtag.
